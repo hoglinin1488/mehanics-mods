@@ -1,4 +1,4 @@
-LNytGWDc|Create.jar
-oWaK0Q19|Create Aeronautics.jar
-UT2M39wf|Create Copycats+.jar
-T9PomCSv|Sable.jar
+LNytGWDc|create.jar
+oWaK0Q19|create-aeronautics.jar
+UT2M39wf|create-copycats+.jar
+T9PomCSv|sable.jar
